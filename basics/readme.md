@@ -8,6 +8,7 @@ no. | title | link | description | type | status
 4 | IPFS official documentation | https://docs.ipfs.io/ | - | `docs` | :o:
 5 | what is IPNS | https://docs.ipfs.io/guides/concepts/ipns/ | - | `blog` | :o:
 6 | Mutable File System (MFS) | https://docs.ipfs.io/guides/concepts/mfs/ | - | `blog` | :o:
+7 | UnixFS | https://docs.ipfs.io/guides/concepts/unixfs/ | - | - | :o:
 
 ---
 symbols | meanings
