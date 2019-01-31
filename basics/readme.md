@@ -1,4 +1,4 @@
- ## basic learning requorces
+ ## basic learning resources
  
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | ------
