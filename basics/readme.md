@@ -9,6 +9,9 @@ no. | title | link | description | type | status
 5 | what is IPNS | https://docs.ipfs.io/guides/concepts/ipns/ | - | `blog` | :o:
 6 | Mutable File System (MFS) | https://docs.ipfs.io/guides/concepts/mfs/ | - | `blog` | :o:
 7 | UnixFS | https://docs.ipfs.io/guides/concepts/unixfs/ | - | - | :o:
+8 | HTTP is obsolete. It's time for the distributed, permanent web | https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html | - | `blog` | :o:
+9 | Replication on IPFS -- Or, the Backing-Up Content Model | https://github.com/ipfs/faq/issues/47 | - | `blog` | :o:
+10 | introduction to file coin | https://youtu.be/EClPAFPeXIQ | - | `video` | :o:
 
 ---
 symbols | meanings
