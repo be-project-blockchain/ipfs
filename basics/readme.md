@@ -15,6 +15,7 @@ no. | title     | link | description | type | status
 10 | introduction to file coin | [click here](https://youtu.be/EClPAFPeXIQ) | - | `video` | :o:
 11 | ipfs & swarm | [click here](https://github.com/ethersphere/go-ethereum/wiki/IPFS-&-SWARM#incentives) | very clear perspective of IPFS vs SWARM | `wiki` | :o:
 12 | Foundations for Decentralization: Data with IPLD | [click here](https://youtu.be/totVQXYS1N8) | - | `video` | :o:
+13 | Learn to securely share files on the blockchain with IPFS! | [click here](https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c) | file encryption strategy | `article` | :o:
 
 <br />
 <br />
